@@ -1,1 +1,9 @@
-this is a readme
+### How to run
+flask --app flaskr run
+
+### about files
+## __init__.py
+the driver for server
+
+## templates
+contains html templates for the web
